@@ -1,0 +1,2 @@
+D:\myproject\cpp\MFCApplication1\Debug\MFCApplication1.exe
+D:\myproject\cpp\MFCApplication1\Debug\MFCApplication1.pdb
